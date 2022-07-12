@@ -2,13 +2,11 @@
 
 ## Overview of Project:
 
-School District Analysis on grade performance using Jupyter Notebook with Python, Pandas Library, and Numpy library.
+This project was performed to anaylze grade dishonesty performance using an array of Data Anayltics softwares, Jupyter Notebook with Python, Pandas Library, and Numpy library.
 
-This repository contains an analysis about grade performance. We are working with our client Maria is responsible for preparing data for insights into performance trends. 
+We are working with our client Maria is responsible for preparing data for insights into performance trends. We have replaced math and reading schores for Thomas High School with NAN while keeping the original data intact. The school board will like to analyze test scores to help ensure better financial decisions.
 
-The school board will like to analyze test scores to help ensure better financial decisions.
-
-We will now review the data below and see the results.
+We will now review the data below and see the results from our Jupyter Notebook.
 
 ## Results:
 
@@ -16,7 +14,7 @@ We will now review the data below and see the results.
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/District%20Summary%20df.png)
 
-When examining the district summary there was very small effects when removing the 9th grade data of Thomas High School.
+When examining the district summary there was minor effects when removing the 9th grade data of Thomas High School.
 
 * Average Math Scores: moved from 79% to 78.9% (.1 point) as a result of this change.
 * Average Reading Scores did not change
