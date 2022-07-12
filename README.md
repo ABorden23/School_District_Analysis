@@ -2,13 +2,13 @@
 
 ## Overview of Project:
 
-Analysis on school district performance using Jupyter Notebook with Python, Pandas Library and Numpy library.
+School District Analysis on grade performance using Jupyter Notebook with Python, Pandas Library, and Numpy library.
 
-The School Board would like to understand various performance metrics of the different school districts and schools. We will first work with Maria (our contact) provide the initial analysis based on data collected from many students and schools across the school district.
+Maria is responsible for preparing data for insights into performance trends. We are working with Maria(our client) to ensure these results are correctly analyzed on student funding and test scores.
 
-While the School Board is pleased with the insight that we have provided in our work with Maria, it has been identified that there appears to be some anomalies in the data, in particular in the math and reading scores of the grade nine students at Thomas High School. In order to ensure these results do not skew the analysis, the Boad has asked us to again work with Maria to remove the impact of these results by changing all the grade 9 Thomas High School math and reading scores to Nan (which is a null value).
+The school board will like to analyze test scores to help the school make better decisions. 
 
-The School Board will like to understand the impact of changing all the grade 9 math and reading scores at Thomas High School to Nan - we will now review how this change impacted various parts of the analysis relative to when it was ran including the Thomas High School grade 9 scores.
+We will now review the data below and see the results.
 
 ## Results:
 
@@ -40,7 +40,7 @@ Scores by school type
 * District Analysis - changes to all scores by less than 0.5 percentage points (or change by less than 0.5%) - no impact to school or student count.
 * Top School Ranking - no change to ranking, however Thomas High School scores did change, but by less than 1 percentage point (or changed by less than * 1%) for each metric.
 * Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
-* Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
+* Scores by School Type - changes to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
 
 ## Resources
 Data Source: schools_complete.csv
