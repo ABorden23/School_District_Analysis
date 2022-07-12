@@ -1,4 +1,4 @@
-# School District Analysis
+# PySchool District Analysis
 
 ## Overview of Project:
 
@@ -12,15 +12,15 @@ We will now review the data below and see the results.
 
 ## Results:
 
-How is the district summary affected?
-
 **School District Summary**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/District%20Summary%20df.png)
 
+The average math score decreased by 0.1% and the 
+
 **School Summary**
 
-![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Summary%20df.png))
+![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Summary%20df.png)
 
 **Top Five Performing Schools**
 
