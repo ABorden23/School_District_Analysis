@@ -20,9 +20,9 @@ When examining the district summary there was very small effects to removing the
 
 * Average Math Scores: moved from 79% to 78.9% (.1 point) as a result of this change.
 * Average Reading Scores did not change
-* Percentage %  Passing Math moved from 75% to 74% (1 percentage point)
-* Percentage %  Reading moved from 86% to 85% (1 percentage point)
-* Percentage %  Passing moved from 65% to 64% (1 percentage point
+* Percentage of Passing Math moved from 75% to 74% (1 percentage point)
+* Percentage of Reading moved from 86% to 85% (1 percentage point)
+* Percentage of Passing moved from 65% to 64% (1 percentage point)
 
 **School Summary**
 
@@ -32,10 +32,10 @@ The school summary, there were some minor adjustments to the data as well.
 
 Summary below:
 
-* Average math at Thomas decreased from 83.42 to 83.35
-* Average reading at Thomas slightly increased from 83.84 to 83.89 (less than .1 point)
-* Average percent passing Math at Thomas greatly decreased from 93.3% to 66.9% (26.7 percentage points)
-* Percent passing Reading at Thomas decreases from 97.3% to 69.7% (27.6 percentage points)
+* Average math score at Thomas High School decreased from 83.42% to 83.35% (less than .1 point)
+* Average reading score at Thomas High School increased from 83.84% to 83.89% (less than .1 point)
+* Average percent passing math at Thomas greatly decreased from 93.3% to 66.9% (26.7 percentage points)
+* Percent passing reading at Thomas decreases from 97.3% to 69.7% (27.6 percentage points)
 * Average percent overall passing both Math and Reading decreased from 90.9% to 65.1% (25.8 percentage points)
 
 **Top Five Performing Schools**
