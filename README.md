@@ -16,7 +16,7 @@ We will now review the data below and see the results.
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/District%20Summary%20df.png)
 
-When examining the district summary there was very small effects to removing the 9th grade data of Thomas High School.
+When examining the district summary there was very small effects when removing the 9th grade data of Thomas High School.
 
 * Average Math Scores: moved from 79% to 78.9% (.1 point) as a result of this change.
 * Average Reading Scores did not change
