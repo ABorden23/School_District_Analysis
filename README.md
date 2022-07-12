@@ -18,11 +18,11 @@ We will now review the data below and see the results.
 
 When examining the district summary there was very small effects to removing the 9th grade data of Thomas High School.
 
-* Average Math Scores: moved from 79 to 78.9 (.1 point) as a result of this change.
+* Average Math Scores: moved from 79% to 78.9% (.1 point) as a result of this change.
 * Average Reading Scores did not change
-* % Passing Math moved from 75% to 74% (delta: 1 percentage point)
-* % Passing Reading moved from 86% to 85% (1 percentage point)
-* % Overall Passing moved from 65% to 64% (1 percentage point
+* Percentage %  Passing Math moved from 75% to 74% (1 percentage point)
+* Percentage %  Reading moved from 86% to 85% (1 percentage point)
+* Percentage %  Passing moved from 65% to 64% (1 percentage point
 
 **School Summary**
 
@@ -78,9 +78,10 @@ Thomas High School was no longer included on the list of top five schools.
 ## Summary: 
 
 * Top School Ranking- Thomas High School that was ranked 2nd and dropped out of the top 5 schools to 8.
-* The percentage passing students for math, reading and overall was also significantly affected at school and grade level for Thomas High School after the   change. 
-* Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
-* Scores by School Type - changes to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
+* When replacing the 9th graders math and reading scores with NAN. The percentage of passing students for math, reading, and overall was significantly affected at school and grade level for Thomas High School after the change. 
+* Based on performance of the budget per student, it will impact the decision on whether school boards decide to provide funding schools based on there averages/passing percentages.
+* At the final result of this project, it we may see an uptick in district school developments over charter schools in the future.
+
 
 ## Resources
 Data Source: schools_complete.csv
