@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview of Project:
 
@@ -14,39 +14,39 @@ We will now review the data below and see the results.
 
 How is the district summary affected?
 
-School District Summary
+**School District Summary**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/District%20Summary%20df.png)
 
-School Summary
+**School Summary**
 
-![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Summary%20df.png)
+![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Summary%20df.png))
 
-Top Five Performing Schools
+**Top Five Performing Schools**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/Top%205%20Schools%20df.png)
 
-Bottom Five Performing Schools
+**Bottom Five Performing Schools**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/Bottom%205%20Schools%20df.png)
 
-Average Math Scores by Grade and School
+**Average Math Scores by Grade and School**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/Average%20Math%20Scores%20df.png)
 
-Average Reading Scores by Grade and School
+**Average Reading Scores by Grade and School**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/Average%20Reading%20Scores%20df.png)
 
-School Spending Summary
+**School Spending Summary**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Spending%20Summary%20df.png)
 
-School Size Summary
+**School Size Summary**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Type%20Summary%20df.png)
 
-School Type Summary
+**School Type Summary**
 
 ![This is an image](https://github.com/ABorden23/School_District_Analysis/blob/main/Resources/Resources/School%20Type%20Summary%20df.png)
 
