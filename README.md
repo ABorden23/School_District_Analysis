@@ -2,7 +2,7 @@
 
 ## Overview of Project:
 
-This project was performed to anaylze grade dishonesty performance using an array of Data Anayltics softwares, Jupyter Notebook with Python, Pandas Library, and Numpy library.
+This project was performed to anaylze grade dishonesty performance using an array of Data Analytics softwares, Jupyter Notebook with Python, Pandas Library, and Numpy library.
 
 We are working with our client Maria is responsible for preparing data for insights into performance trends. We have replaced math and reading schores for Thomas High School with NAN while keeping the original data intact. The school board will like to analyze test scores to help ensure better financial decisions.
 
